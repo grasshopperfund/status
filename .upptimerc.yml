@@ -10,7 +10,7 @@ status-website:
   # Uncomment the `baseUrl` line if you don't have a custom domain and add your repo name there
   cname: status.grasshopperfund.com
   # baseUrl: /your-repo-name
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
+  logoUrl: https://raw.githubusercontent.com/grasshopperfund/status/0f585e66481b8b5b868f474ffb1440f4a374fca4/assets/logo.svg
   name: Grasshopperfund Status
   introTitle: "See the current status of Grasshopperfund, as well as any past/ongoing incidents"
   introMessage: Have any concerns? Check out https://form.typeform.com/to/kL6w15tG

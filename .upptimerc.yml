@@ -27,8 +27,8 @@ status-website:
       href: /
     - title: Grasshopperfund
       href: https://grasshopperfund.com/
-     - title: Help Desk
-       href: https://form.typeform.com/to/kL6w15tG
+    - title: Help Desk
+      href: https://form.typeform.com/to/kL6w15tG
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration

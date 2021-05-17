@@ -14,7 +14,7 @@ sites:
     url: $STARTUPS_ENDPOINT
     expectedStatusCodes:
       - 200
-     body: '$STARTUPS_BODY'
+    body: '$STARTUPS_BODY'
     headers:
     - "Content-Type: application/json"
 

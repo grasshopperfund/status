@@ -1,20 +1,20 @@
 [
   {
-    "name": "Google",
+    "name": "Grasshopperfund",
     "url": "https://www.grasshopperfund.com",
     "icon": "https://favicons.githubusercontent.com/www.grasshopperfund.com",
-    "slug": "google",
+    "slug": "grasshopperfund",
     "status": "up",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 324,
-    "timeDay": 324,
-    "timeWeek": 324,
-    "timeMonth": 324,
-    "timeYear": 324,
+    "time": 371,
+    "timeDay": 371,
+    "timeWeek": 371,
+    "timeMonth": 371,
+    "timeYear": 371,
     "dailyMinutesDown": {}
   }
 ]

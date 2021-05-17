@@ -26,7 +26,7 @@ status-website:
   # baseUrl: /your-repo-name
   logoUrl: https://raw.githubusercontent.com/grasshopperfund/status/0f585e66481b8b5b868f474ffb1440f4a374fca4/assets/logo.svg
   name: Grasshopperfund Status
-  introTitle: "See the current status of Grasshopperfund, as well as any past/ongoing incidents"
+  introTitle: "The current status of Grasshopperfund and its services."
   introMessage: See bugs? Need help? [**Send us a message**](https://form.typeform.com/to/kL6w15tG)
   faviconSvg: https://raw.githubusercontent.com/grasshopperfund/status/0f585e66481b8b5b868f474ffb1440f4a374fca4/assets/logo.svg
   theme: dark

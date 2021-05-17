@@ -14,7 +14,7 @@ status-website:
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
   name: Grasshopperfund Status
   introTitle: "See the current status of Grasshopperfund, as well as any past/ongoing incidents"
-  introMessage: Email any concerns to help.grasshopperfund@gmail.com
+  introMessage: You can email any concerns to help.grasshopperfund@gmail.com
   navbar:
     - title: Status
       href: /

@@ -10,6 +10,14 @@ sites:
       - 200
     headers:
     - "Content-Type: application/json"
+  - name: Startups
+    url: $STARTUPS_ENDPOINT
+    expectedStatusCodes:
+      - 200
+     body: '$STARTUPS_BODY'
+    headers:
+    - "Content-Type: application/json"
+
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain

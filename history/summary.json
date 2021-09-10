@@ -22,19 +22,19 @@
     "url": "$EXPLORE_PAGE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "explore-page",
-    "status": "down",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "up",
+    "uptime": "99.48%",
+    "uptimeDay": "38.81%",
+    "uptimeWeek": "91.26%",
+    "uptimeMonth": "97.99%",
+    "uptimeYear": "99.48%",
     "time": 257,
-    "timeDay": 233,
-    "timeWeek": 208,
-    "timeMonth": 249,
+    "timeDay": 219,
+    "timeWeek": 206,
+    "timeMonth": 247,
     "timeYear": 257,
     "dailyMinutesDown": {
-      "2021-09-10": 0
+      "2021-09-10": 881
     }
   },
   {

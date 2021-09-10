@@ -22,18 +22,20 @@
     "url": "$EXPLORE_PAGE",
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "explore-page",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 258,
-    "timeDay": 226,
-    "timeWeek": 203,
+    "time": 257,
+    "timeDay": 233,
+    "timeWeek": 208,
     "timeMonth": 249,
-    "timeYear": 258,
-    "dailyMinutesDown": {}
+    "timeYear": 257,
+    "dailyMinutesDown": {
+      "2021-09-10": 0
+    }
   },
   {
     "name": "Startups",

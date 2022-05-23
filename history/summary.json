@@ -11,9 +11,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 432,
-    "timeDay": 289,
-    "timeWeek": 659,
-    "timeMonth": 750,
+    "timeDay": 442,
+    "timeWeek": 680,
+    "timeMonth": 757,
     "timeYear": 434,
     "dailyMinutesDown": {}
   },
@@ -23,16 +23,16 @@
     "icon": "https://favicons.githubusercontent.com/null",
     "slug": "explore-page",
     "status": "up",
-    "uptime": "99.83%",
+    "uptime": "99.84%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.83%",
     "time": 278,
-    "timeDay": 297,
-    "timeWeek": 438,
-    "timeMonth": 334,
-    "timeYear": 278,
+    "timeDay": 403,
+    "timeWeek": 459,
+    "timeMonth": 338,
+    "timeYear": 279,
     "dailyMinutesDown": {
       "2021-09-10": 881
     }
@@ -49,9 +49,9 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 190,
-    "timeDay": 133,
-    "timeWeek": 289,
-    "timeMonth": 206,
+    "timeDay": 348,
+    "timeWeek": 314,
+    "timeMonth": 212,
     "timeYear": 190,
     "dailyMinutesDown": {}
   }

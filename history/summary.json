@@ -4,19 +4,19 @@
     "url": "https://www.grasshopperfund.com",
     "icon": "https://icons.duckduckgo.com/ip3/www.grasshopperfund.com.ico",
     "slug": "grasshopperfund",
-    "status": "down",
+    "status": "up",
     "uptime": "100.00%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "99.40%",
+    "uptimeWeek": "99.91%",
+    "uptimeMonth": "99.98%",
     "uptimeYear": "100.00%",
     "time": 510,
-    "timeDay": 299,
-    "timeWeek": 243,
-    "timeMonth": 283,
-    "timeYear": 509,
+    "timeDay": 263,
+    "timeWeek": 241,
+    "timeMonth": 281,
+    "timeYear": 508,
     "dailyMinutesDown": {
-      "2023-04-05": 0
+      "2023-04-05": 9
     }
   },
   {

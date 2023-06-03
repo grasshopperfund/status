@@ -22,18 +22,20 @@
     "url": "$EXPLORE_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "explore-page",
-    "status": "up",
+    "status": "down",
     "uptime": "99.92%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 364,
+    "time": 363,
     "timeDay": 516,
     "timeWeek": 494,
     "timeMonth": 395,
     "timeYear": 378,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-03": 0
+    }
   },
   {
     "name": "Startups",

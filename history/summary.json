@@ -11,10 +11,10 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 523,
-    "timeDay": 365,
-    "timeWeek": 322,
-    "timeMonth": 428,
-    "timeYear": 446,
+    "timeDay": 330,
+    "timeWeek": 335,
+    "timeMonth": 429,
+    "timeYear": 442,
     "dailyMinutesDown": {}
   },
   {
@@ -24,18 +24,16 @@
     "slug": "explore-page",
     "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.08%",
-    "uptimeWeek": "99.87%",
-    "uptimeMonth": "99.97%",
+    "uptimeDay": "100.00%",
+    "uptimeWeek": "100.00%",
+    "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 363,
-    "timeDay": 471,
-    "timeWeek": 486,
-    "timeMonth": 396,
+    "time": 364,
+    "timeDay": 455,
+    "timeWeek": 497,
+    "timeMonth": 400,
     "timeYear": 378,
-    "dailyMinutesDown": {
-      "2023-06-03": 13
-    }
+    "dailyMinutesDown": {}
   },
   {
     "name": "Startups",
@@ -48,10 +46,10 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 267,
-    "timeDay": 467,
-    "timeWeek": 371,
-    "timeMonth": 279,
+    "time": 268,
+    "timeDay": 513,
+    "timeWeek": 410,
+    "timeMonth": 287,
     "timeYear": 288,
     "dailyMinutesDown": {}
   }

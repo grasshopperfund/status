@@ -22,19 +22,19 @@
     "url": "$EXPLORE_PAGE",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "explore-page",
-    "status": "down",
+    "status": "up",
     "uptime": "99.92%",
-    "uptimeDay": "99.99%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
+    "uptimeDay": "98.70%",
+    "uptimeWeek": "99.81%",
+    "uptimeMonth": "99.96%",
     "uptimeYear": "100.00%",
     "time": 370,
-    "timeDay": 510,
+    "timeDay": 465,
     "timeWeek": 375,
-    "timeMonth": 355,
+    "timeMonth": 356,
     "timeYear": 370,
     "dailyMinutesDown": {
-      "2023-07-20": 0
+      "2023-07-20": 19
     }
   },
   {

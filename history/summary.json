@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/www.grasshopperfund.com.ico",
     "slug": "grasshopperfund",
     "status": "down",
-    "uptime": "66.50%",
+    "uptime": "66.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 291,
+    "time": 293,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 46,
+      "2025-02-09": 51,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -379,8 +380,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   },
   {
@@ -389,18 +389,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "explore-page",
     "status": "down",
-    "uptime": "63.47%",
+    "uptime": "63.42%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 159,
+    "time": 158,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 46,
+      "2025-02-09": 51,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -763,8 +764,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "startups",
     "status": "down",
-    "uptime": "66.50%",
+    "uptime": "66.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "0.00%",
     "uptimeYear": "0.00%",
-    "time": 240,
+    "time": 243,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2025-02-08": 46,
+      "2025-02-09": 51,
+      "2025-02-08": 1440,
       "2025-02-07": 1440,
       "2025-02-06": 1440,
       "2025-02-05": 1440,
@@ -1147,8 +1148,7 @@
       "2024-02-14": 1440,
       "2024-02-13": 1440,
       "2024-02-12": 1440,
-      "2024-02-11": 1440,
-      "2024-02-10": 1440
+      "2024-02-11": 1440
     }
   }
 ]
